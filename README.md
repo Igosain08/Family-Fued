@@ -29,5 +29,5 @@ enter guess of player1Cobwebs
 3 _ _
 4 _ _
 5 _ _
-Your Name - email@example.com
+Your Name - ishaangosain08@gmail.com
 Project Link: https://github.com/yourusername/family-feud-game
