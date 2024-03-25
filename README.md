@@ -8,7 +8,7 @@ Ensure you have Python installed on your machine to run this game. Follow these 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/family-feud-game.git](https://github.com/Igosain08/Family-Fued)
+git clone git@github.com:Igosain08/Family-Fued.git
 
 # Navigate to the project directory
 cd family-feud-game
