@@ -14,7 +14,7 @@ git clone https://github.com/Igosain08/Family-Fued.git
 cd Family-Feud-game
 
 # Run the game
-python family_feud.py
+python family_fued.py
 
 # Example game session
 Enter guess for player1: Ghosts
